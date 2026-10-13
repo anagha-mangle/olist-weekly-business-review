@@ -1,0 +1,9 @@
+table,candidate_key,rows,rows_with_null_key,rows_in_duplicate_key_groups
+olist_orders_dataset.csv,order_id,99441,0,0
+olist_order_items_dataset.csv,order_id + order_item_id,112650,0,0
+olist_order_payments_dataset.csv,order_id + payment_sequential,103886,0,0
+olist_order_reviews_dataset.csv,review_id,99224,0,1603
+olist_customers_dataset.csv,customer_id,99441,0,0
+olist_sellers_dataset.csv,seller_id,3095,0,0
+olist_products_dataset.csv,product_id,32951,0,0
+product_category_name_translation.csv,product_category_name,71,0,0
